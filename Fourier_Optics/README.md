@@ -1,4 +1,4 @@
-Computational Fourier Optics
+Computational Fourier Optics (Chapters 1-9)
 
 Great topics.
 
